@@ -1,7 +1,6 @@
 package part3_4.com.demoqa.tests.part3.forms;
 
-import com.demoqa.pages.Forms.FormsPage;
-import com.demoqa.pages.Forms.PracticeFormPage;
+import com.demoqa.pages.forms.PracticeFormPage;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import part3_4.com.demoqa.base.BaseTest;

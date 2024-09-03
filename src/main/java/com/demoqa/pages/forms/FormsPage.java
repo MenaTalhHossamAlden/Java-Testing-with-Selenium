@@ -1,4 +1,4 @@
-package com.demoqa.pages.Forms;
+package com.demoqa.pages.forms;
 
 import com.demoqa.pages.HomePage;
 import org.openqa.selenium.By;
